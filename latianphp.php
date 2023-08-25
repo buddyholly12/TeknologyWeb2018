@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>
-		Latian Php 
+		Latian Php dan html dasar menggunakan php mysql
 	</title>
 </head>
 <body>
